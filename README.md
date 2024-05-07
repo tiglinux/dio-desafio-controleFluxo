@@ -20,4 +20,3 @@ Dentro do projeto, crie a classe ParametrosInvalidosException que representará 
 	git clone https://github.com/tiglinux/dio-desafio-controleFluxo
 ```
 
-Soluted by : Tiago Ribeiro Santos
